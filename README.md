@@ -3,7 +3,6 @@
 - 🔭 Em Busca de Ser Um Dev Full-Stack
 - 📚 Estudando JavaScript / PHP / Python / HTML / CSS /
 - 📫 Contate-me no Email: allysonnrocha02@gmail.com
-- 😄 Pronouns: Ele / Dele
 
  <div>
   <a href="https://github.com/allysonhub">
