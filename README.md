@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Allyson!
 
 - 🔭 Em Busca de Ser Um Dev Full-Stack
-- 📚 Estudando JavaScript / PHP / Python / HTML / CSS /
+- 📚 Estudando JavaScript / PHP / Python / HTML / CSS / React
 - 📫 Contate-me no Email: allysonnrocha02@gmail.com
 
  <div>
